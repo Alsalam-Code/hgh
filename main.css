@@ -1,0 +1,20 @@
+*{
+  box-sizing: border-box;
+}
+body {
+  background-color: rgb(0, 202, 138);
+  font-family: Arial, Tahoma;
+}
+.page_head,
+.page-description {
+  text-align: center;
+}
+.page_head {
+  font-size: 40px;
+  color: blue;
+  margin: 20px 0 0;
+}
+.page-description {
+  font-size:  22px;
+  margin: 10px 0 40px;
+}
